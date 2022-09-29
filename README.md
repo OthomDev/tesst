@@ -42,7 +42,7 @@ largestGap([13, 3, 8, 5, 5, 2, 13, 6, 14, 2, 11, 4, 10, 8, 1, 9]) ➞ 2
 
 // Largest gap between 6 and 8 is 2
 
-# ======================================
+# =====================================
 Disarium Number (Python)
 
 A number is said to be Disarium if the sum of its digits raised to their respective positions is the number itself.
