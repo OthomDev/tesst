@@ -1,4 +1,4 @@
-def large_gap(A):
+def large(A):
     result = []
     A.sort()
     for i in range(len(A) - 1):
@@ -10,6 +10,6 @@ arr = []
 for i in range(size):
     arr.append(int(input("Enter the element of the array, then press enter: ")))
 
-print(large_gap(arr))
+print(large(arr))
 
 
